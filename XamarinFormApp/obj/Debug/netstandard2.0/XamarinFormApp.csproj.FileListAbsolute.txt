@@ -1,0 +1,13 @@
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamarinFormApp.csprojAssemblyReference.cache
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamarinFormApp.AssemblyInfoInputs.cache
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamarinFormApp.AssemblyInfo.cs
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\bin\Debug\netstandard2.0\XamarinFormApp.deps.json
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\bin\Debug\netstandard2.0\XamarinFormApp.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\bin\Debug\netstandard2.0\ref\XamarinFormApp.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\bin\Debug\netstandard2.0\XamarinFormApp.pdb
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamarinFormApp.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\ref\XamarinFormApp.dll
+C:\Users\Faycal\Downloads\PROJETS SOLO\EFGetStarted\XamarinFormApp\XamarinFormApp\XamarinFormApp\obj\Debug\netstandard2.0\XamarinFormApp.pdb
